@@ -21,3 +21,16 @@
     {% include category-modal.html%}
   </body>
 </html>
+<script async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js"></script>
+<script>
+  MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      packages: {'[+]': ['amsmath']}
+    }
+    svg: {
+          font: "STIX-Web", // Font a ser usada
+          scale: 120 // Escala das fontes
+    }
+  };
+</script>
