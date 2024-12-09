@@ -1,8 +1,8 @@
 ---
 layout: post
-title: A Definição Formal de um Neurônio Artificial
-date: 2024-11-26
-categories: ["matrix", "AI", "neural", "artificial neural"]
+title: Zero shot learning
+date: 2024-11-29
+categories: ["ML", "LLM"]
 ---
 
 
