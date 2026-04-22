@@ -18,12 +18,6 @@ collections:
   posts:
     output: true
 
-defaults:
-  - scope:
-      path: "_posts"
-    values:
-      layout: "post"
-      permalink: /posts/:title/
 markdown: kramdown
 
 defaults:
