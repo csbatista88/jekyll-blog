@@ -4,7 +4,7 @@ markdown: kramdown
 # for atom feed
 author:
   name: christian batista
-  email: me@christianbatista.info
+  email: me@christianbatista.com
 
 plugins:
   - jemoji
