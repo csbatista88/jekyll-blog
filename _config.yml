@@ -2,8 +2,6 @@ title: Christian Batista | Consultoria em TI
 description: Especialista em Arquitetura de Sistemas, Infraestrutura Linux e Desenvolvimento Web Moderno em Maceió.
 url: "https://christianbatista.com.br"
 
-markdown: kramdown
-
 # for atom feed
 author:
   name: christian batista
@@ -26,7 +24,6 @@ defaults:
     values:
       layout: "post"
       permalink: /posts/:title/
-title: Christian Batista
 markdown: kramdown
 
 defaults:
